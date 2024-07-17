@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @Jadj22
 - 👀 Je m'intéresse au développement web
-- 🌱 J'apprends actuellement React
+- 🌱 J'apprends actuellement React Native (https://reactnative.dev/)
 - 💞️ Je cherche à collaborer sur des projets web
 - 📫 Comment me contacter : https://wa.me/+22870565073
 - 😄 Pronoms : il/lui
