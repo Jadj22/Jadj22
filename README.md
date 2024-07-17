@@ -1,7 +1,7 @@
 - 👋 Salut, je suis @Jadj22
 - 👀 Je m'intéresse au développement web
 - 🌱 J'apprends actuellement React
-- 💞️ Je cherche à collaborer sur des projets
+- 💞️ Je cherche à collaborer sur des projets web
 - 📫 Comment me contacter : https://wa.me/+22870565073
 - 😄 Pronoms : il/lui
 - ⚡ Fun fact : Je ne suis pas tout le temps flex 😄
