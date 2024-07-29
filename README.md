@@ -1,4 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)-->
+[![MasterHead]<div style="position: relative; width: 100%; height: 0; padding-top: 33.3333%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGMVQQC3UI&#x2F;0Bs2enF9xN5dcilgu7yKcA&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGMVQQC3UI&#x2F;0Bs2enF9xN5dcilgu7yKcA&#x2F;watch?utm_content=DAGMVQQC3UI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Salut , je suis Adjanke Joël</a> par jadj
 
 <!--<h1 align="center">Bonjour 👋, je suis Adjanke Joël</h1>
 <h3 align="center">Un développeur frontend passionné du Togo</h3>
@@ -7,7 +15,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Bonjour+👋;+je+suis+Adjanke+Joël+👨🏽‍💻;" alt="Typing SVG" />
 </h1>
 
-<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="[https://[i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif](https://avatars.githubusercontent.com/u/154758578?s=400&u=5c1e0606a2c3b70badd306049f456b40125de5dd&v=4)](https://avatars.githubusercontent.com/u/154758578?s=400&u=5c1e0606a2c3b70badd306049f456b40125de5dd&v=4)">
+<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 
 <p align="left">
