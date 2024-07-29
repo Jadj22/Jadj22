@@ -10,7 +10,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Bonjour+👋;+je+suis+Adjanke+Joël+👨🏽‍💻;" alt="Typing SVG" />
 </h1>
 
-<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif](https://github.com/user-attachments/assets/a677e126-a01a-467c-8aab-bb9f01dfa85a)">
+<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/bc0e753b-3866-4838-bc02-a20d911f8a2a">
+<!--![Developper](https://github.com/user-attachments/assets/bc0e753b-3866-4838-bc02-a20d911f8a2a)-->
 
 
 <p align="left">
@@ -19,10 +20,9 @@
 
 
 - 🌱 J’apprends actuellement **React Native** (https://reactnative.dev/)
-- 👯 Je cherche à collaborer sur des projets web
+- 👯 Je cherche à collaborer sur des projets web et autres(backend)
 - 🤝 Je cherche de l'aide pour **React Native**
 - 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/monprofil)
-- 📝 J'écris régulièrement des articles sur [Mon Blog](https://monblog.com)
 - 📫 Comment me contacter : [WhatsApp](https://wa.me/+22870565073)
 - 📄 Découvrez mon expérience sur [LinkedIn](https://linkedin.com/in/monprofil)
 - ⚡ Fun fact : Je ne suis pas tout le temps flex 😄
