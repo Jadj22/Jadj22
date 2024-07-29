@@ -3,7 +3,7 @@
 <h1 align="center">Bonjour 👋, je suis Adjanke Joël</h1>
 <h3 align="center">Un développeur frontend passionné du Togo</h3>
 
-<img align="right" align-items="center" alt="Coding" width="400" border-raduis="20" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jadj22&label=Profile%20views&color=0e75b6&style=flat" alt="jadj22" />
@@ -96,4 +96,5 @@
 <!---
 Jadj22/Jadj22 est un dépôt ✨ spécial ✨ parce que son `README.md` (ce fichier) apparaît sur votre profil GitHub.
 Vous pouvez cliquer sur le lien Aperçu pour voir vos modifications.
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2Q0UmsxVUV1RnNvTDM0TTFTT0VSNllFV3FtZ3xBQ3Jtc0ttbllveXlKWEE4Sm9zS2swWXZlM3M0cTlMbS1iYjhPNWFiVnM4UE51SWoyUDdLRXVjOENINUhlNFczdlJfTmJvVVlvUXdGTGtuYnk1TE5wVXE4M3dvN2JraFRaTVhsMklhbktTM1ZPRmNQeEtLa1IwSQ&q=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator%2F&v=G-EGDH50hGE
 --->
