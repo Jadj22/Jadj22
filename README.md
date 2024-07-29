@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Bonjour+👋;+je+suis+Adjanke+Joël+👨🏽‍💻;" alt="Typing SVG" />
 </h1>
 
-<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif](https://github.com/user-attachments/assets/a677e126-a01a-467c-8aab-bb9f01dfa85a)">
 
 
 <p align="left">
