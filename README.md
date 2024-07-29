@@ -1,10 +1,8 @@
-- 👋 Salut, je suis @Jadj22
+<h1 align="center">Bonjour 👋, je suis Adjanke Joël</h1>
+<h3 align="center">Un développeur frontend passionné du Togo</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
-<h1 align="center">Hi 👋, I'm Adjanke joël</h1>
-<h3 align="center">A passionate frontend developer from Togo</h3>
-
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw0Eo5m0mrcsl3tPhcyhb3_B&ust=1722333344241000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD6__j9y4cDFQAAAAAdAAAAABAE"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadj22&label=Profile%20views&color=0e75b6&style=flat" alt="jadj22" /> </p>
 
