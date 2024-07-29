@@ -10,7 +10,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Bonjour+👋;+je+suis+Adjanke+Joël+👨🏽‍💻;" alt="Typing SVG" />
 </h1>
 
-<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/bc0e753b-3866-4838-bc02-a20d911f8a2a">
+<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
+
+
 <!--![Developper](https://github.com/user-attachments/assets/bc0e753b-3866-4838-bc02-a20d911f8a2a)-->
 
 
