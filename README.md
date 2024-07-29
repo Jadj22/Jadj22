@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
 <h1 align="center">Bonjour 👋, je suis Adjanke Joël</h1>
 <h3 align="center">Un développeur frontend passionné du Togo</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img align="right" alt="Coding" width="300" border-raduis="20" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jadj22&label=Profile%20views&color=0e75b6&style=flat" alt="jadj22" />
