@@ -4,10 +4,11 @@
 <h3 align="center">Un développeur frontend passionné du Togo</h3>
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Bonjour+👋🙂;+je+suis+Adjanke+Joël+👨🏽‍💻;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Bonjour+👋;+je+suis+Adjanke+Joël+👨🏽‍💻;" alt="Typing SVG" />
 </h1>
 
-<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<img style="border-radius: 20px;" align="right" alt="Coding" width="400" src="[https://[i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif](https://avatars.githubusercontent.com/u/154758578?s=400&u=5c1e0606a2c3b70badd306049f456b40125de5dd&v=4)](https://avatars.githubusercontent.com/u/154758578?s=400&u=5c1e0606a2c3b70badd306049f456b40125de5dd&v=4)">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jadj22&label=Profile%20views&color=0e75b6&style=flat" alt="jadj22" />
